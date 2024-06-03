@@ -1,4 +1,4 @@
-# AcidRain
+# AcidRain a python game
 Description:
 Acid Rain is a simple arcade-style game where the player controls a character to avoid acid raindrops falling from the sky. The player must move left and right to dodge the raindrops while the game progressively increases in difficulty over time.
 
